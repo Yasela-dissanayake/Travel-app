@@ -1,7 +1,7 @@
 import React from "react";
 
-const GetApp = () => {
+const GetInTouch = () => {
   return <div>GetApp</div>;
 };
 
-export default GetApp;
+export default GetInTouch;
